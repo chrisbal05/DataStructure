@@ -17,6 +17,8 @@ class arrayStack {
 		top = -1;
 	}
 
+	// Kanw Allages
+	
 	/* Function to check if stack is empty */
 	public boolean isEmpty() {
 		return top == -1;
